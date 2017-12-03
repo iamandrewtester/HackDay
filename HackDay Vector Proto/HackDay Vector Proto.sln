@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackDay Vector Proto", "Assembly-CSharp.csproj", "{B59D13AF-B4EA-78CC-05E7-D261F139DDA7}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackDay Vector Proto", "HackDay Vector Proto.csproj", "{C84C919D-DD78-C2E6-BB2B-7AFABB2F5643}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B59D13AF-B4EA-78CC-05E7-D261F139DDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B59D13AF-B4EA-78CC-05E7-D261F139DDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B59D13AF-B4EA-78CC-05E7-D261F139DDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B59D13AF-B4EA-78CC-05E7-D261F139DDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84C919D-DD78-C2E6-BB2B-7AFABB2F5643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84C919D-DD78-C2E6-BB2B-7AFABB2F5643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84C919D-DD78-C2E6-BB2B-7AFABB2F5643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84C919D-DD78-C2E6-BB2B-7AFABB2F5643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
